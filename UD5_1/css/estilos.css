@@ -1,0 +1,50 @@
+body {
+
+    background-image: url("../images/fondo_practica.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    overflow: hidden;
+    font-family: 'Special Elite', cursive;
+    
+}
+
+h1 {
+
+    background-color: #653E26;
+    color: #FFF4E0;
+    border-left: 10px solid #C65B32;
+    padding: 12px;
+
+
+}
+
+img {
+
+    border: 5px solid black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
+    width: 520px;
+    height: 413px;
+
+
+}
+
+ul {
+
+   list-style-type: none; 
+
+}
+
+li {
+
+   display: inline;
+   border: 1px solid #653E26;
+   margin: 0 5px;
+   padding: 2px 6px;
+
+
+
+}
+
